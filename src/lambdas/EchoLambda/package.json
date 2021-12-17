@@ -1,0 +1,15 @@
+{
+  "name": "lambda-echo",
+  "version": "1.0.0",
+  "description": "Echo Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Sachin Hamirwasia",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
